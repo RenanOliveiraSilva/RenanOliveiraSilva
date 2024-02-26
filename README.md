@@ -7,6 +7,11 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanOliveiraSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div class="contato">
+  <a href="https://www.linkedin.com/in/renan-de-oliveira-silva-416721289/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:contato@Renan Oliveira"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 <br>
 
 # Sobre mim
@@ -19,9 +24,6 @@
   <br>
   <div>
     💻 Atualmente trabalho como aprendiz em Desenvolvimento de Sistemas, esse é meu primeiro contato com no mercado de trabalho com a área de T.I 
-  </div>
-  <div>
-    <>
   </div>
   
 </div>
