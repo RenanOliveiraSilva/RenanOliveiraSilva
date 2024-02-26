@@ -15,10 +15,10 @@
 
 <br>
 
-# Sobre mim
-
-<div>
+  <img src="https://github.com/RenanOliveiraSilva/RenanOliveiraSilva/blob/main/img.png" alt=celebrate width=250 align=right>
   
+# Sobre mim
+<div>
   <div>
     🎓 Atualmento estou graduando em Análise em Desenvolvimento de Sistemas, sempre fui apaixonado por essa área, e após completar meu ensino médio já tinha certeza qual seria minha vocação.
   </div>
