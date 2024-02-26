@@ -20,7 +20,7 @@
 <div>
   
   <div>
-    🎓 Atualmento estou graduando em Análise em Desenvolvimento, sempre fui apaixonado por essa área, e após completar meu ensino médio já tinha certeza qual seria minha vocação.
+    🎓 Atualmento estou graduando em Análise em Desenvolvimento de Sistemas, sempre fui apaixonado por essa área, e após completar meu ensino médio já tinha certeza qual seria minha vocação.
   </div>
   <br>
   <div>
