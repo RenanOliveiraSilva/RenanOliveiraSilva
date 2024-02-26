@@ -24,7 +24,7 @@
   </div>
   <br>
   <div>
-    💻 Atualmente trabalho como aprendiz em Desenvolvimento de Sistemas, esse é meu primeiro contato com no mercado de trabalho com a área de T.I 
+    💻 Atualmente trabalho como aprendiz em Desenvolvimento de Sistemas, esse é meu primeiro contato com o mercado de trabalho com a área de T.I 
   </div>
   
 </div>
