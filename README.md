@@ -12,8 +12,14 @@
 # Sobre mim
 
 <div>
-:mortar_board: Atualmento estou graduando em Análise em Desenvolvimento, sempre fui apaixonado por essa área, e após completar meu ensino médio já tinha certeza qual seria minha vocação.
-
+  <div>
+    🎓 Atualmento estou graduando em Análise em Desenvolvimento, sempre fui apaixonado por essa área, e após completar meu ensino médio já tinha certeza qual seria minha vocação.
+  </div>
+  <br>
+  <div>
+    💻 Atualmente trabalho como aprendiz em Desenvolvimento de Sistemas, esse é meu primeiro contato com no mercado de trabalho com a área de T.I 
+  </div>
+  
 </div>
 
 <br>
