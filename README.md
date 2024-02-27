@@ -15,9 +15,9 @@
 
 <br>
 
-  <img src="https://github.com/RenanOliveiraSilva/RenanOliveiraSilva/blob/main/img.png" alt=celebrate width=250 align=right>
   
 # Sobre mim
+  <img src="https://github.com/RenanOliveiraSilva/RenanOliveiraSilva/blob/main/img.png" alt=celebrate width=250 align=right>
 <div>
   <div>
     🎓 Atualmento estou graduando em Análise em Desenvolvimento de Sistemas, sempre fui apaixonado por essa área, e após completar meu ensino médio já tinha certeza qual seria minha vocação.
@@ -25,6 +25,10 @@
   <br>
   <div>
     💻 Atualmente trabalho como aprendiz em Desenvolvimento de Sistemas, esse é meu primeiro contato com o mercado de trabalho na área de T.I.
+  </div>
+    <br>
+  <div>
+    🗨️ Estou disposto a aprender novas práticas e tecnologias e colocar em prática toda a minha teoria aprendida nesses últimos anos...
   </div>
   
 </div>
